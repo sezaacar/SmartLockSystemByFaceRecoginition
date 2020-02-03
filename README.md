@@ -31,8 +31,10 @@ when it recognize your face in 30 sec by known sample or pressing "q" from keybo
 thanks:seza acar
 
 for questions
+
 https://www.linkedin.com/in/seza-acar/
 
 Gaziantep University 
+
 Graduation Project 
 
