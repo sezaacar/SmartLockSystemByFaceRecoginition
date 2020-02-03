@@ -38,3 +38,5 @@ Gaziantep University
 
 Graduation Project 
 
+
+do not forget to change locations of folders from codes
