@@ -13,8 +13,9 @@ Technology used :
 -openCV (Opensource Computer Vision)
 -Python
 -tkinter GUI interface
--12v Relay
--Selenoid Lock
+-5v Relay
+-12v Selenoid Lock
+-12v power supply 
 -screen 
 
 Here I am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark their attendance by simply facing the camera. 
