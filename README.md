@@ -29,15 +29,13 @@ After taking image sample we have to click Train Image button.Now it take few se
 Now all initial setups are done. By clicking Track Image button camera of running machine is opened again. If face is recognised by system then Id and Name of person is shown on Image. Press Q(or q) for quit this window.After quitting it attendance of person will be stored in Attendance folder as csv file with name, id, date and time and it is also available in window.
 when it recognize your face in 30 sec by known sample or pressing "q" from keyboard will activate to lock 
 
-thanks:seza acar
-
-for questions
+Submitted by :Ali Seza Acar
 
 https://www.linkedin.com/in/seza-acar/
 
 Gaziantep University 
+B.Sc., Electrical and Electronics Engineering
 
-Graduation Project 
 
 
-do not forget to change locations of folders from codes
+Note : if you would like to assembly the code on your end , please note that you will need to make sure Files locations are correct on Code branch . 
