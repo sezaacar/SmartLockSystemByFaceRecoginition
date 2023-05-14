@@ -36,6 +36,8 @@ https://www.linkedin.com/in/seza-acar/
 Gaziantep University 
 B.Sc., Electrical and Electronics Engineering
 
+THIS PROJECT HAS BEEN REWARED BY "GAZIANTEP UNIVERSITY /Turkey" AT January 2020 . 
+
 
 
 Note : if you would like to assembly the code on your end , please note that you will need to make sure Files locations are correct on Code branch . 
